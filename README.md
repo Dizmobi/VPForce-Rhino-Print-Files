@@ -16,5 +16,8 @@ Original authors are listed below:
 * [Gadroc](https://github.com/Gadroc/vpforce-ffb-joystick) - Basis for modifications
 * [TheAmazinGreat](https://github.com/TheAmazinGreat/86-Motor-VPF-FFB-Base) - Most of these parts
 
-# To use this:
+# To use this
 Go to TheAmazinGreat's documtation listed above, and follow the path there.
+
+# Disclaimer
+Look/read twice, print once (or twice if that's your thing).   I have not reviewed these since I printed my parts with them.   I think they are the latest versions, but in some cases I assembled parts onto multiple plates so there may be duplicates in there.    Part of the fun of building something like this is figuring out what the parts are and how they go together.    Have fun!
